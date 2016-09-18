@@ -12,7 +12,7 @@ Checkout this repo, install dependencies, then start node process with the follo
 	> npm install
 	> npm start
 ```
-###Features:###
+###Covered Features:###
 
-* React + Redux
-* Youtube API
+* __Redux: actions, reducers__
+* __Youtube API__
