@@ -4,14 +4,15 @@ React + Redux sample using Youtube API
 
 ###Getting Started###
 
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
 Checkout this repo, install dependencies, then start node process with the following:
 
 ```
-	> git clone ...
+	> git clone https://github.com/domainio/ReactReduxYoutubeFeeder
 	> cd ReactReduxYoutubrApi
 	> npm install
 	> npm start
 ```
+###Features:###
+
+* React + Redux
+* Youtube API
