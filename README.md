@@ -1,18 +1,22 @@
 # React Redux Youtube Feeder
 
-React + Redux sample using Youtube API
+Youtube VOD search feeder using Google Youtube API
+
+
+###Covered Features:###
+
+* __Redux: actions, reducers__
+* __Google Youtube API__
+
 
 ###Getting Started###
 
 Checkout this repo, install dependencies, then start node process with the following:
 
 ```
-	> git clone https://github.com/domainio/ReactReduxYoutubeFeeder
-	> cd ReactReduxYoutubrApi
+	> git clone https://github.com/domainio/ReactReduxYoutubeFeeder.git
+	> cd ReactReduxYoutubeFeeder
 	> npm install
 	> npm start
 ```
-###Covered Features:###
 
-* __Redux: actions, reducers__
-* __Youtube API__
