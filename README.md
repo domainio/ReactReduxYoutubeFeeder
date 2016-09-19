@@ -9,7 +9,7 @@ Youtube VOD search feeder using Google Youtube API
 * __Google Youtube API__
 
 
-![alt tag](https://lh4.googleusercontent.com/IHAaNuUOsFe2K5oGO56PQzhxHyLSOYR09tO2Yljlu44lY4GUBYp0SDWpwL8MpoDV_3mi4Xx0fJLwSJw=w1366-h642-rw)
+![alt tag](https://www.dropbox.com/s/63o2ok5p71ps4uz/youtube-feeder-app.png?raw=1)
 
 
 ###Getting Started###
