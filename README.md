@@ -7,7 +7,7 @@ Youtube VOD search feeder using Google Youtube API
 
 * __Redux: actions, reducers__
 * __Google Youtube API__
-
+* __env: webpack, babel__
 
 ![alt tag](https://www.dropbox.com/s/63o2ok5p71ps4uz/youtube-feeder-app.png?raw=1)
 
