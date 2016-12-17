@@ -5,7 +5,7 @@ import YTSeach from 'youtube-api-search';
 import SearchBar from './components/search-bar';
 import VideoList from './components/video-list';
 import VideoDetail from './components/video-detail';
-const API_KEY = 'AIzaSyDyYxfwIa7SiXNc0Hwa7pIAEdTq2jVO0jQ';
+import YOUTUBE_API_KEY from '../config';
 
 
 class App extends Component {
@@ -32,7 +32,7 @@ class App extends Component {
     }
 
   videoSearch(term){
-    YTSeach({key:API_KEY, term: term}, (videos) =>  {
+    YTSeach({key: YOUTUBE_API_KEY, term: term}, (videos) =>  {
       console.dir(videos);
       console.dir(this);
       this.setState({

@@ -20,6 +20,9 @@ Checkout this repo, install dependencies, then start node process with the follo
 	> git clone https://github.com/domainio/ReactReduxYoutubeFeeder.git
 	> cd ReactReduxYoutubeFeeder
 	> npm install
+	> create ./config.js contains YOUTUBE_API_KEY = '...' and export it as an object:
+	    >> touch config.js
+	    >> echo "const YOUTUBE_API_KEY = '...you.api.key...; export { YOUTUBE_API_KEY };'"
 	> npm start
 ```
 
